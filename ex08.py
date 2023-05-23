@@ -1,8 +1,8 @@
 """Dict"""
 
-dict = {}
+dct = {}
 
-#dct2 = dict()
+dct2 = dict()
 
 dct3 = {1: 1, 2: 2, 3: 3}
 
